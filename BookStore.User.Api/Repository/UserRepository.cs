@@ -6,7 +6,7 @@ namespace BookStore.User.Api.Repository
     {
         public Task<int> AddUserAsync(UserModel user)
         {
-            throw new NotImplementedException();
+            throw new NotImplementedException(); 
         }
 
         public async Task<List<UserResponse>> GetAllUsersAsync()
