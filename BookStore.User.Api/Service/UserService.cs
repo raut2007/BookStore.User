@@ -16,7 +16,6 @@ namespace BookStore.User.Api.Service
 
         public async Task<List<UserResponse>> GetAllUsersAsync()
         {
-
            return await _repo.GetAllUsersAsync();
         }
 
