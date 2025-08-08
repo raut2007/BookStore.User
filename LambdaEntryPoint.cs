@@ -13,7 +13,7 @@ public class LambdaEntryPoint : APIGatewayProxyFunction
         // OR configure your services here if using minimal API
     }
 }
-
+ 
 
 //
 //install package
