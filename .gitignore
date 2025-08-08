@@ -14,6 +14,10 @@ obj/
 # Ignore Rider settings
 .idea/
 
+# Ignore .vs
+*.vs/
+
+
 # Ignore NuGet packages
 *.nupkg
 packages/
